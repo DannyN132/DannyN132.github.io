@@ -12,4 +12,4 @@ I am a Electrical Engineering major at Cal State Fullerton.
   number. We used if-statements to determine if the second player's guess was right or wrong.
 
 
-*  My last favorite lab was Lab 8. I really enjoyed doing lab 8 part 2 because it was the first lab where we used our code to create something more visual. In part 2 we used a inner and two outer loops to create a pattern
+*  My last favorite lab was Lab 8. I really enjoyed doing lab 8 part 2 because it was the first lab where we used our code to create something more visual. In part 2 we used a inner and two outer loops to create a pattern.
